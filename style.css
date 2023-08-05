@@ -98,6 +98,27 @@ h2.information-header {
     align-self: flex-end;
 }
 
+.action-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    padding: 48px 0 32px;
+    margin: 100px 250px;
+    border-radius: 8px;
+}
+
+.action-header {
+    color: white;
+}
+
+.action-text {
+    color: #E5E7EB;
+}
+
+.action-sign-up {
+    border: 2px solid white;
+}
+
 a, .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
